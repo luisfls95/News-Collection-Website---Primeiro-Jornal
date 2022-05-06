@@ -1,0 +1,23 @@
+.corpo-noticia a {
+  color: rgb(79, 70, 229);
+}
+
+.altura-index {
+  height: calc(100vh - 92px);
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.tracking-super {
+  letter-spacing: 1em;
+}
+
+.bg-ultimas {
+  margin-top: calc(100vh);
+  background-color: #f2f2f7;
+  box-shadow: 0px -6px 100px 100px #f2f2f7;
+}
